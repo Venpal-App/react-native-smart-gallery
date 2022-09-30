@@ -1,5 +1,9 @@
 import React, { PureComponent } from "react";
-import { View, ViewPropTypes } from "react-native";
+import {
+	View,
+	// ViewPropTypes
+} from "react-native";
+import { ViewPropTypes } from 'deprecated-react-native-prop-types';
 import PropTypes from "prop-types";
 import { createResponder } from "react-native-easy-guesture-responder";
 import ImageTransformer from "react-native-image-transformer";
