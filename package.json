@@ -64,7 +64,7 @@
     "deprecated-react-native-prop-types": "^2.3.0",
     "prop-types": "^15.6.2",
     "react-native-easy-guesture-responder": "^1.1.2",
-    "react-native-image-transformer": "https://github.com/Venpal-App/react-native-image-transformer.git#8acc471",
+    "react-native-image-transformer": "https://github.com/Venpal-App/react-native-image-transformer.git",
     "react-native-smart-page": "https://github.com/Venpal-App/react-native-smart-page.git"
   },
   "peerDependencies": {
